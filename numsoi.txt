@@ -1,0 +1,2 @@
+# Numbers of Interest:
+3000 for the while loop, single number in the list: 97203097000000
